@@ -14,6 +14,6 @@ Made it responsive for a seamless experience across various devices.
 Implemented the core functionality to calculate BMI based on user inputs.
 Added features to display the BMI value and categorize the result (e.g., Underweight, Normal weight, Overweight, Obesity).
 
-⭐ Website link: https://addanajmalkhan.github.io/AddanAjmalKhan-CognoRise-InfoTech-Task_2-BMI-calculaor/
+⭐ Website link: https://addanajmalkhan.github.io/AddanAjmalKhan-CognoRise-InfoTech-Task_3-BMI-calculator/
 
 ⭐ Repository link: https://github.com/AddanAjmalKhan/AddanAjmalKhan-CognoRise-InfoTech-Task_3-BMI-calculator
